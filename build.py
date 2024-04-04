@@ -4,7 +4,8 @@ import os
 file_names = [
     "./page_rank_info.ipynb",
     "./power_iteration.ipynb",
-    "./markov_matrix.ipynb"
+    "./markov_matrix.ipynb",
+    "./sum_up.ipynb"
 ]
 
 build_destination = "./build/project.ipynb"
